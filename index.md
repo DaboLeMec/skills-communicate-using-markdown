@@ -10,4 +10,5 @@ Column 1 | Column 2
 yo|sup
 
 
-Working on my markdown stuff
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of a Beaver](https://en.wikipedia.org/wiki/Beaver#/media/File:American_Beaver.jpg)
